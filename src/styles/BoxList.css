@@ -1,0 +1,8 @@
+.BoxList{
+    display: flex;
+    flex-wrap: wrap;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    overflow: auto;
+}
